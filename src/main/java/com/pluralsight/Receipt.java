@@ -5,6 +5,8 @@ public class Receipt {
         String itemName = "milk";
         double priceItem = 3.99;
         int quantity = 1;
+        System.out.println("you bought " + quantity + " " + itemName + " for $" + priceItem);
+
 
     }
 }
