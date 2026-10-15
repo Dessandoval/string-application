@@ -44,7 +44,8 @@ public class VariableApp {
         //Print all values in complete sentences
         System.out.println("the number of days in a week is, " + dayOfWeek);
         System.out.println("the price of coffee is, " + priceOfCoffee);
-        System.out.println("my favortie letter is, ");
+        System.out.println("my favortie letter is, " + favLetter);
+        System.out.println("is it raining today? " + isRaining);
 
 
 
