@@ -29,6 +29,14 @@ public class VariableApp {
         int dayOfWeek = 7;
         System.out.println("the answer is " + dayOfWeek);
 
+        //The price of coffee ($4.99)
+        double priceOfCoffee = 4.99;
+        System.out.println("price of coffee is " + priceOfCoffee);
+
+        //Your favorite letter
+        char favLetter = 'D';
+        System.out.println("My favorite letter is " + favLetter);
+
 
 
 
