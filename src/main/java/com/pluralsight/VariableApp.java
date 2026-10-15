@@ -41,6 +41,9 @@ public class VariableApp {
         boolean isRaining = false;
         System.out.println("is it raining? " + isRaining);
 
+        //Print all values in complete sentences
+
+
 
 
 
