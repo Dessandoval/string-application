@@ -10,17 +10,25 @@ public class VariableApp {
         // REPEAT FOR NEXT EXERCISE
 
         String yearOfClass = "2026";
-        System.out.println("started year up in" + " " + yearOfClass);
+        System.out.println("started year up in " + yearOfClass);
 
         String favoriteColor = "green";
-        System.out.println("My favorite color is" + " " + favoriteColor);
+        System.out.println("My favorite color is " + favoriteColor);
 
         char middleInital = 'A';
-        System.out.println("middle initial is" + " " + middleInital);
+        System.out.println("middle initial is " + middleInital);
 
-        boolean hasPets = true;
+        String hasPets = "Yes";
+        System.out.println("do you have pets? " + hasPets);
 
-        String niceMessage = "this is a nice message";
+        String message = "have a nice day";
+        System.out.println("message of the day is " +  message);
+        //Step 2
+        // The number of days in a week
+        int dayOfWeek = 7;
+        System.out.println("the answer is " + dayOfWeek);
+
+
 
 
 
