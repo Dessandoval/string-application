@@ -24,9 +24,11 @@ public class VariableApp {
         String message = "have a nice day";
         System.out.println("message of the day is " +  message);
         //Step 2
+
         // The number of days in a week
         int dayOfWeek = 7;
         System.out.println("the answer is " + dayOfWeek);
+
 
 
 
