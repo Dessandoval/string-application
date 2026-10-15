@@ -37,6 +37,8 @@ public class VariableApp {
         char favLetter = 'D';
         System.out.println("My favorite letter is " + favLetter);
 
+        //
+
 
 
 
