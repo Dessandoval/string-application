@@ -9,7 +9,7 @@ public class VariableApp {
         // ex: System.out.println("The answer is " + answer);
         // REPEAT FOR NEXT EXERCISE
 
-        String yearOfClass = "2026";
+        int yearOfClass = 2026;
         System.out.println("started year up in " + yearOfClass);
 
         String favoriteColor = "green";
@@ -18,7 +18,7 @@ public class VariableApp {
         char middleInital = 'A';
         System.out.println("middle initial is " + middleInital);
 
-        String hasPets = "Yes";
+        boolean hasPets = true;
         System.out.println("do you have pets? " + hasPets);
 
         String message = "have a nice day";
